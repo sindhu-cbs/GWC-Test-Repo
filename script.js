@@ -3,7 +3,8 @@ let songlist =
     'Cruel Summer', 
     'Barbie World',
     'Vampire',
-    'Cold Heart'
+    'Cold Heart',
+    'Levitating'
   ];
 
 let index = 0;
@@ -32,5 +33,4 @@ function draw() {
   if (index == songlist.length){
     noLoop();
   }
-  
-  }
+}
