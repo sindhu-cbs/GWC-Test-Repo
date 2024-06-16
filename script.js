@@ -4,7 +4,8 @@ let songlist =
     'Vampire',
     'Cold Heart',
     'Levitating',
-    'Not like us'
+    'Not Like Us',
+    'Family Matters'
   ];
 
 let index = 0;
