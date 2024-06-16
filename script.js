@@ -1,7 +1,6 @@
 let songlist = 
   [
-    'Cruel Summer', 
-    'Barbie World',
+    'Cruel Summer',
     'Vampire',
     'Cold Heart',
     'Levitating',
