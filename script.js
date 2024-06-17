@@ -1,10 +1,11 @@
 let songlist = 
   [
-    'Cruel Summer', 
-    'Barbie World',
+    'Cruel Summer',
     'Vampire',
     'Cold Heart',
-    'Levitating'
+    'Levitating',
+    'Not Like Us',
+    'Family Matters'
   ];
 
 let index = 0;
